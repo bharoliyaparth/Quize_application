@@ -12,7 +12,7 @@
 -Score tracking at the end of the quiz
 -Simple and user-friendly UI
 
-3>Tech Stack
+3.Tech Stack
 Language: Java
 UI Design: XML
 IDE: Android Studio
